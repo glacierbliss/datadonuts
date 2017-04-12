@@ -2,8 +2,8 @@
 # get a citation for a package
 citation("ggplot2")
 sessionInfo() #gives version
-where
-
+#where
+#adding a line for git
 
 #download the file
 download.file(url = "http://libguides.colostate.edu/ld.php?content_id=27156359",
